@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.iml
+
+# Java / Maven
+target/
+*.class
+
+# Environment
+.env
+
+# Others
+commit.txt
